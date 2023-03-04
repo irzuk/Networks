@@ -1,34 +1,12 @@
-# Networks_HW_1
+# Networks_HW_2
 
-### Задание 1
-![alt text](screenshots/task1.png)
+Был реализован REST Service на языке Java с помощью Spring.
+Сначала получили все тестовые данные
 
-Вопросы:
-1. Использует ли ваш браузер HTTP версии 1.0 или 1.1? Какая версия HTTP работает на
-сервере? <span style="background-color: #FFFF00">Marked text</span>
-2. Какие языки (если есть) ваш браузер может принимать? В захваченном сеансе какую еще
-информацию (если есть) браузер предоставляет серверу относительно
-пользователя/браузера?
-> **Answer**
-3. Какой IP-адрес вашего компьютера? Какой адрес сервера gaia.cs.umass.edu? 
-> **Answer**
-4. Какой код состояния возвращается с сервера на ваш браузер? <span style="background-color: #FFFF00">Marked text</span>
-5. Когда HTML-файл, который вы извлекаете, последний раз модифицировался на сервере? <span style="background-color: #FFFF00">Marked text</span>
-6. Сколько байтов контента возвращается вашему браузеру? <span style="background-color: #FFFF00">Marked text</span>
+![alt text](screenshots/postman1.png)
+Изменили по id 3 название и описание
 
-### Задание 2
-![alt text](screenshots/taks2.png)
+![alt text](screenshots/postman2.png)
+Удалили 3 элемент и еще раз получили весь список
 
-
-### Задание 3
-![alt text](screenshots/task3.png)
-
-
-### Задание 4
-![alt text](screenshots/task4.png)
-
-
-### Задание 5
-![alt text](screenshots/task5.png)
-
-
+![alt text](screenshots/postman3.png)
