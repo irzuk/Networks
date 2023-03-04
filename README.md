@@ -9,7 +9,7 @@
 2. Какие языки (если есть) ваш браузер может принимать? В захваченном сеансе какую еще
 информацию (если есть) браузер предоставляет серверу относительно
 пользователя/браузера? <span style="background-color: #FFFF00">Marked text</span>
-3. Какой IP-адрес вашего компьютера? Какой адрес сервера gaia.cs.umass.edu? ==Marked text==
+3. Какой IP-адрес вашего компьютера? Какой адрес сервера gaia.cs.umass.edu? <mark>highlight</mark>
 4. Какой код состояния возвращается с сервера на ваш браузер? <span style="background-color: #FFFF00">Marked text</span>
 5. Когда HTML-файл, который вы извлекаете, последний раз модифицировался на сервере? <span style="background-color: #FFFF00">Marked text</span>
 6. Сколько байтов контента возвращается вашему браузеру? <span style="background-color: #FFFF00">Marked text</span>
