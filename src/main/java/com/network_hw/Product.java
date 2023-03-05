@@ -6,7 +6,7 @@ public class Product {
     private Integer id;
     private String name;
     private String description;
-    // private TODO add image
+    private String logo;
 
     Product(String name, String description) {
         this.name = name;
@@ -29,6 +29,10 @@ public class Product {
         return name;
     }
 
+    public String getLogo() {
+        return logo;
+    }
+
     public void setId(Integer id) {
         this.id = id;
     }
@@ -41,11 +45,13 @@ public class Product {
         this.description = description;
     }
 
-    // public getImage
+    public void setLogo(String logo) {
+        this.logo = logo;
+    }
 
     public void updateProduct(String newName, String newDescription) {
-       setName(name);
-       setDescription(description);
+        setName(name);
+        setDescription(description);
     }
 
 }
